@@ -1,0 +1,23 @@
+{
+  "name": "jest1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aoibhinn/jest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aoibhinn/jest1/issues"
+  },
+  "homepage": "https://github.com/Aoibhinn/jest1#readme",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
